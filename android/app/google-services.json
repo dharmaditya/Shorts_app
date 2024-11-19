@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971195176821",
+    "project_id": "swipingviews",
+    "storage_bucket": "swipingviews.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971195176821:android:4c6d48e775bbf8094fe53c",
+        "android_client_info": {
+          "package_name": "com.dharm.swipingviews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwJtknlSoLnb0dssEe77peFuzVqjowDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
